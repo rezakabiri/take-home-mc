@@ -21,17 +21,17 @@ Both projects were written in TDD approach. That is, first the requirements of t
 
 ### Java Solution
 
-The Java solution is a Java Maven project and the idea used for this project (files included) is IntelliJ. Therefore, you need to have Java SDK, Maven (and if you want to run from idea) IntelliJ installed. 
+The Java solution is a Java Maven project and it is developed in IntelliJ. Therefore, you need to have Java SDK, Maven and (if you want to run from idea) IntelliJ installed. 
 
-The tests are written using JUnit and they reside under the test folder and are written in the givenSomethingThenSomething format. In order to run the tests form command line navigate to the project main folder and run below command:
+The tests are written using JUnit and they reside under the test folder. In order to run the tests form command line navigate to the project main folder and run below command:
 
 **mvn test**
 
-In order to run the test from idea you need to open the project in IntelliJ and simply run the saved  configuration **UnitTest-FindLongestWordAndLengthMethod**.
+In order to run the test from IntelliJ you need to open the project in idea and simply run the saved configuration **UnitTest-FindLongestWordAndLengthMethod**.
 
 ### Python Solution
 
-This is a python 3.6 project developed in PyCharm idea. At this point, the test are only runnable from the diea. 
+This is a python 3.6 project developed in PyCharm. At this point, the tests are only runnable from the PyCharm. 
 
 ## Authors
 
